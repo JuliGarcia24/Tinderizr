@@ -1,0 +1,2 @@
+# Tinderizr
+ Proyecto TypeScript
