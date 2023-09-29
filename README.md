@@ -52,4 +52,9 @@ class Match{
  timeStamp: Date;
 }
 
+enum tipoVinculacion{
+    VINCULACION_SIMPLE,
+    VINCULACION_MULTIPLE,
+}
+
 @enduml
